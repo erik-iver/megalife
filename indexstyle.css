@@ -1,0 +1,17 @@
+body{background-image: url("bilde1.jpg");
+	background-attachment: fixed;
+	background-position: fixed;
+	background-position: center;
+	background-size: 80%;
+	color: gold;
+	font-family: "Lucida Console", "monospace", sans-serif;}
+
+a{color: gold;
+	text-decoration: none;
+	}
+a:hover{color: gold;
+	text-decoration: line-through;
+	}
+
+h1{color: white;
+	font-size: 40px;}
