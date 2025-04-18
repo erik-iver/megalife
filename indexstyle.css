@@ -12,6 +12,12 @@ a{color: gold;
 a:hover{color: gold;
 	text-decoration: line-through;
 	}
-
+.lach{width: 95%;}
 h1{color: white;
 	font-size: 40px;}
+
+h2{color: yellow;
+	font-variant: "Times new roman", "serif"
+	font-size: 40px;
+	letter-spacing: -2px;
+	}
