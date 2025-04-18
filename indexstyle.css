@@ -3,13 +3,13 @@ body{background-image: url("bilde1.jpg");
 	background-position: fixed;
 	background-position: center;
 	background-size: 80%;
-	color: gold;
+	color: yellow;
 	font-family: "Lucida Console", "monospace", sans-serif;}
 
-a{color: gold;
+a{color: yellow;
 	text-decoration: none;
 	}
-a:hover{color: gold;
+a:hover{color: yellow;
 	text-decoration: line-through;
 	}
 .lach{width: 95%;}
